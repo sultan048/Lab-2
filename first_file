@@ -1,3 +1,4 @@
+cout<<"i have added my name, roll number, fsc_subjects, 1st sem subjects, 2nd subjects in my code"
 cout<<"My name is: "<<"Sultan shaukat";
 cout<<"My roll number is: "<<"23-st-048";
 cout<<"My fsc subjects are";
